@@ -2,5 +2,5 @@
 
 echo "Loading dotfiles..."
 
-sudo apt-get update
-sudo apt-get install julia
+sudo apt update
+sudo apt -y install julia

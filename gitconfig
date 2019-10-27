@@ -1,3 +1,5 @@
 [user]
     name = matsueushi
     email = matsueushi@gmail.com
+[core]
+    editor = vim

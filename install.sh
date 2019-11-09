@@ -12,6 +12,9 @@ if [ ! -d ~/dotfiles ]; then
     git clone https://github.com/matsueushi/dotfiles.git ~/dotfiles
 fi
 
+# install python
+bash install-python.sh
+
 # install julia
 bash install-julia.sh
 

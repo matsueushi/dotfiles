@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sudo apt install python3.7
+sudo apt -y install python3.7
+sudo apt -y install python3.7-venv

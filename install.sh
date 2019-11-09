@@ -1,6 +1,9 @@
 #!/bin/bash
 
+cd ~
+
 echo "loading dotfiles..."
+ln -snvf ~/dotfiles/bashrc .bashrc
 
 echo "install git..."
 sudo apt update

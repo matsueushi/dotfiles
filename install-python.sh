@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt -y install python
+sudo apt install python3.7

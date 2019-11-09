@@ -13,9 +13,9 @@ if [ ! -d ~/dotfiles ]; then
 fi
 
 # install python
-bash install-python.sh
+bash ~/dotfiles/install-python.sh
 
 # install julia
-bash install-julia.sh
+bash ~/dotfiles/install-julia.sh
 
 echo "finished!"
